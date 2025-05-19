@@ -1,0 +1,12 @@
+personal:
+  server: imap.yourimap.com
+  username: hiro
+  password: 123456
+  filters: 
+    priority:
+      - dimitri@raveinoff.com
+      - bob@raft.org
+work:
+  server: imap.gmail.com
+  username: yt@gmail.com
+  password: da5id
